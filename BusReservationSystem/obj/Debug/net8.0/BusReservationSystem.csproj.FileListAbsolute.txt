@@ -1,0 +1,14 @@
+C:\Users\appuk\source\repos\BusReservationSystem\BusReservationSystem\bin\Debug\net8.0\BusReservationSystem.exe
+C:\Users\appuk\source\repos\BusReservationSystem\BusReservationSystem\bin\Debug\net8.0\BusReservationSystem.deps.json
+C:\Users\appuk\source\repos\BusReservationSystem\BusReservationSystem\bin\Debug\net8.0\BusReservationSystem.runtimeconfig.json
+C:\Users\appuk\source\repos\BusReservationSystem\BusReservationSystem\bin\Debug\net8.0\BusReservationSystem.dll
+C:\Users\appuk\source\repos\BusReservationSystem\BusReservationSystem\bin\Debug\net8.0\BusReservationSystem.pdb
+C:\Users\appuk\source\repos\BusReservationSystem\BusReservationSystem\obj\Debug\net8.0\BusReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\appuk\source\repos\BusReservationSystem\BusReservationSystem\obj\Debug\net8.0\BusReservationSystem.AssemblyInfoInputs.cache
+C:\Users\appuk\source\repos\BusReservationSystem\BusReservationSystem\obj\Debug\net8.0\BusReservationSystem.AssemblyInfo.cs
+C:\Users\appuk\source\repos\BusReservationSystem\BusReservationSystem\obj\Debug\net8.0\BusReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\appuk\source\repos\BusReservationSystem\BusReservationSystem\obj\Debug\net8.0\BusReservationSystem.dll
+C:\Users\appuk\source\repos\BusReservationSystem\BusReservationSystem\obj\Debug\net8.0\refint\BusReservationSystem.dll
+C:\Users\appuk\source\repos\BusReservationSystem\BusReservationSystem\obj\Debug\net8.0\BusReservationSystem.pdb
+C:\Users\appuk\source\repos\BusReservationSystem\BusReservationSystem\obj\Debug\net8.0\BusReservationSystem.genruntimeconfig.cache
+C:\Users\appuk\source\repos\BusReservationSystem\BusReservationSystem\obj\Debug\net8.0\ref\BusReservationSystem.dll
